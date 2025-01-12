@@ -1,0 +1,17 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
+env/
+
+# Flask
+instance/
+
+# VS Code and MacOS system files
+.vscode/
+.DS_Store
+
